@@ -9,3 +9,8 @@
 
 <h3>開発言語は？</h3>
 ![icons](https://github.com/kagome24-dev/kagome24-dev/assets/131169285/f487f573-eb08-4e00-8c2f-010262dc2ce9)
+
+<h3>ステータス</h3>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kagome24-dev)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kagome24-dev&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaogme24-dev) 
